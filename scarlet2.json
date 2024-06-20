@@ -1,6 +1,6 @@
 {
   "META": {
-    "repoName": "ipafiledl",
+    "repoName": "appleios_ir",
     "repoIcon": "https://s8.uupload.ir/files/img_5659_9smb.jpeg"
   },
   "Apps": [
@@ -17,7 +17,7 @@
     {
       "name": "Parallel Space",
       "version": "1.0.1",
-      "down": "https://s5.uupload.ir/files/matin9913/ParallelSpace1.0.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "down": "https://s5.uupload.ir/files/matin9913/ParallelSpace1.0.1[@appleios_ir].ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version",
       "bundleID": "ir.esfandune.crossword.Jadval",
